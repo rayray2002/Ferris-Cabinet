@@ -1,0 +1,52 @@
+{
+  "None": {
+    "name": "Unknown",
+    "description": "Unknown",
+    "icon": 0
+  },
+  "00000000": {
+    "name": "desk1",
+    "description": "description1description1description1description1description1",
+    "icon": 0
+  },
+  "11111111": {
+    "name": "desk2",
+    "description": "description2description2description2description2description2",
+    "icon": 1
+  },
+  "22222222": {
+    "name": "desk3",
+    "description": "description3description3description3description3description3",
+    "icon": 2
+  },
+  "33333333": {
+    "name": "desk4",
+    "description": "description4description4description4description4description4",
+    "icon": 3
+  },
+  "44444444": {
+    "name": "desk5",
+    "description": "description5description5description5description5description5",
+    "icon": 4
+  },
+  "55555555": {
+    "name": "desk5",
+    "description": "description5description5description5description5description5",
+    "icon": 4
+  },
+  "66666666": {
+    "name": "desk5",
+    "description": "description5description5description5description5description5",
+    "icon": 4
+  },
+  "77777777": {
+    "name": "desk5",
+    "description": "description5description5description5description5description5",
+    "icon": 4
+  },
+  "88888888": {
+    "name": "desk5",
+    "description": "description5description5description5description5description5",
+    "icon": 4
+  }
+}
